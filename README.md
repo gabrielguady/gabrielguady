@@ -17,7 +17,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F8F8FF?style=for-the-badge&logo=javascript&labelColor=F8F8FF)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-6B8E23?style=for-the-badge&logo=django&labelColor=6B8E23)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-B22222?style=for-the-badge&logo=angular&labelColor=B22222)&nbsp;
-![React](https://img.shields.io/badge/-React-C1E7FF?style=for-the-badge&logo=react&labelColor=C1E7FF)&nbsp;
+![React](https://img.shields.io/badge/-React-033A8D?style=for-the-badge&logo=react&labelColor=033A8D)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-ADD8E6?style=for-the-badge&logo=python&labelColor=ADD8E6)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-B22222?style=for-the-badge&logo=openjdk&labelColor=B22222&logoColor=black)&nbsp;
 ![Typescript](https://img.shields.io/badge/-TypeScript-F8F8FF?style=for-the-badge&logo=Typescript&labelColor=F8F8FF&textColor=F8F8FF)&nbsp;
