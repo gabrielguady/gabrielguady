@@ -2,11 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFAFA&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gabriel+Guady;I'm+22+years+old;I'm+a+Software+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabrielguady&show_icons=true&count_private=true&hide_border=true&title_color=FFFAFA&icon_color=FFFAFA&text_color=FFFAFA&bg_color=000000" alt="gabriel guady github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielguady&layout=compact&hide_border=true&title_color=FFFAFA&text_color=FFFAFA&bg_color=000000" />
-</div>
-
 
 <div align="center"> 
 <a href = "mailto:gabrielguady@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
